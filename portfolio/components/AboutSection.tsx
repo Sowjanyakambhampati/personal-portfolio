@@ -4,15 +4,24 @@ import Image from "next/image"
 const skills = [
   { skill: "HTML" },
   { skill: "CSS" },
+  { skill: "Java" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
-  { skill: "Python" },
+  { skill: "MongoDB" },
   { skill: "React" },
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "RESTAPIs" },
+  { skill: "Node.js" },
+  { skill: "Express" },
+  { skill: "Docker" },
+  { skill: "MySQL" },
+  {skill: "Figma"},
+  {skill: "Prisma"},
+  {skill: "Material-UI"}
+  
 ]
 
 const AboutSection = () => {
@@ -30,22 +39,22 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Sowjanya kambhampati  and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              based in Hoofddorp, Netherlands.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
+              I graduated from Jawaharlal Nehru technological University Kakinada in 2010
+              with a MCA  in Computer Applications  and have been working in the
               field ever since.
             </p>
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
+              From reading, playing sports, watching Geo Politics, cooking, coding and spending time with family and friends.
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
