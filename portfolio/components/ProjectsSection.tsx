@@ -15,19 +15,18 @@ const projects = [
         link: "https://buurt-hub.vercel.app/",
     },
     {
-        name: "PlatoIO",
-        description: "PlatoIO is a to do list app that built using the PERN stack.",
-        image: "/platoio.png",
-        github: "https://github.com/hqasmei/platoio",
-        link: "https://platoio.com/register",
+        name: "StyleSavvy",
+        description: "Style-Savvy is a versatile application designed for booking appointments for a range of expert beauty services, including hair care, spa treatments, skincare, and nail services, conveniently located in the city center. Users can easily reserve a hairstylist for a chosen date and time, with the flexibility to view and adjust appointments before finalizing bookings. Although currently tailored for single-user access, future updates will expand its functionality to accommodate multiple user authentications, enhancing its usability and accessibility.",
+        image: "/stylesavvy.png",
+        github: "https://github.com/Sowjanyakambhampati/StyleSavvy-Salon-Project",
+        link: "https://stylesavvyproject.netlify.app/",
     },
     {
-        name: "Kator Family Photos",
-        description:
-            "Kator Family Photos is a photos and video digitization service in the LA area.",
-        image: "/familyphotos.png",
-        github: "https://github.com/hqasmei/katorfamilyphotos",
-        link: "https://katorfamilyphotos.com/",
+        name: "Battleship-game",
+        description: "Battleship is a strategy type guessing game for two players. It is played on ruled grids on which each player's fleet of ships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling 'shots' at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.",
+        image: "/battleship.png",
+        github: "https://github.com/Sowjanyakambhampati/battleship-game",
+        link: "https://sowjanyakambhampati.github.io/battleship-game",
     },
 ]
 
